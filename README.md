@@ -17,8 +17,6 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
-
 > As a tour guide, <br> 
 > I want to know what cancellation rates and delay times I can expect, <br> 
 > so that I can plan my tours around any potential delays. 
@@ -31,8 +29,6 @@ Include your User Story you analyzed for your project here. Your User Story shou
 
 
 ## UML Diagram 
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
 [![UML Diagram for my project](nameOfImageFileHere.png) ](https://docs.google.com/drawings/d/14NajWU75T3YCCwAhL4mt8fdQxjVdy3k6MtBEwUEQVjk/edit)
 
